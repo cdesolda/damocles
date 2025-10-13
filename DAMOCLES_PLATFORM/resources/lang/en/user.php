@@ -1,0 +1,57 @@
+<?php
+
+return [
+    'user' => 'User',
+    'users' => 'Users',
+    'acception' => 'Acception',
+    'active' => 'Active',
+    'disable' => 'Disabled',
+    'detail' => 'Detail profile',
+    'updateSucc' => 'User updated successfully!',
+    'deleteSucc' => 'User deleted successfully!',
+    'partials' => [
+        'active' => [
+            'active' => 'State',
+            'activeMessage' => 'Are you sure to change the state of the user?',
+        ],
+        'accept' => [
+            'accept' => 'Acception',
+            'acceptMessage' => 'Are you sure to change the acception of the user?',
+            'accept' => 'Accept',
+            'reject' => 'Reject',
+        ],
+        'update' => [
+            'update' => 'Update profile',
+            'profile' => 'Profile Information',
+            'value' => [
+                'id' => 'Id',
+                'name' => 'Name',
+                'surname' => 'Surname',
+                'gender' => 'Gender',
+                'role' => 'Role',
+                'companyRole' => 'Company Role',
+                'type' => 'Type',
+                'dob' => 'Date of birth',
+                'email' => 'Email',
+                'state' => 'State',
+            ],
+            'saved' => 'Saved.',
+            'save' => 'Save',
+            'noUsers' => 'No user data available!',
+            'male' => 'Male',
+            'female' => 'Female',
+            'other' => 'Other',
+            'type' => 'Type',
+            'real' => 'Real',
+            'fake' => 'Fake',
+            'digitalTwin' => 'Digital Twin',
+            'admin' => 'Admin',
+            'evaluator' => 'Evaluator',
+            'user' => 'User',
+        ],
+        'delete' => [
+            'delete' => 'Delete profile',
+            'deleteMessage' => 'Are you sure to delete the profile?',
+        ],
+    ],
+];

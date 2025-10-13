@@ -1,0 +1,40 @@
+<?php
+
+return [
+    'dashboard' => 'Dashboard',
+    'welcome' => 'Welcome',
+    'users' => 'Users',
+    'llm' => 'Large Language Models',
+    'userAssessment' => 'User Assessment',
+    'phishingCampaign' => 'Phishing campaigns',
+    'userMitigation' => 'User Mitigation',
+    'emails' => 'Emails',
+    'questionnaireCampaigns' => 'Questionnaire campaigns',
+    'digitalTwinsCampaign' => 'Digital Twins campaigns',
+    'trainingCampaign' => 'Training campaigns',
+    'advanced' => 'Advanced',
+    'phishingCampaignOption' => 'Phishing campaign option',
+    'availableQuestionnaires' => 'Available questionnaires',
+    'questionnaireCampaign' => 'Questionnaire campaign',
+    'trainingCampaignOption' => 'Training campaign option',
+    'profile' => 'Profile',
+    'logout' => 'Log Out',
+    'admin' => [
+        'admins' => 'Admins',
+        'evaluators' => 'Evaluators',
+        'users' => 'Users',
+        'llms' => 'LLMs',
+    ],
+    'evaluator' => [
+        'users' => 'Users',
+        'phishingCampaign' => 'Phishing Campaigns',
+        'questionnairesCampaign' => 'Questionnaires Campaigns',
+        'questionnaires' => 'Questionnaires',
+        'trainingCampaign' => 'Training Campaigns',
+    ],
+    'charts' => [
+        'totalCampaigns' => 'Total campaigns',
+    ],
+    'accountNotAccept' => 'Your account is not accepted, wait that your account will be accept or contact an Admin to have support',
+    'accountNotActive' => 'Your account is not active, wait that your account will be actived or contact an Admin to have support',
+];
